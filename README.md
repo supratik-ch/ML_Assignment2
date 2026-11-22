@@ -63,7 +63,7 @@ Analysis of the ground-truth target vector reveals pronounced class imbalance:
 
 ## 3. GitHub Repository Information & Project Structure
 
-* **GitHub Repository URL:** `https://github.com/<your-username>/bank-term-deposit-ml-classification`
+* **GitHub Repository URL:** `https://github.com/supratik-ch/ML_Assignment2.git`
 
 ```text
 bank-term-deposit-ml-classification/
