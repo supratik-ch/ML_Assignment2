@@ -73,13 +73,7 @@ bank-term-deposit-ml-classification/
 ├── test_data.csv                # Exported 20% test dataset partition (with true target column)
 ├── model_evaluation_metrics.png # Generated performance metric visualization plot
 └── model/                       # Notebook & serialized trained model binaries
-    ├── assignment_notebook.ipynb # Jupyter Notebook containing full source code
-    ├── preprocessor.joblib
-    ├── logistic_regression.joblib
-    ├── decision_tree.joblib
-    ├── knn.joblib
-    ├── naive_bayes.joblib
-    └── random_forest_ensemble.joblib
+    ├── ML_Assignment.ipynb # Jupyter Notebook containing full source code
 ```
 
 ## 4. Execution Instructions
