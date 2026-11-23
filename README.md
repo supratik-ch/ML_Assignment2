@@ -71,9 +71,9 @@ bank-term-deposit-ml-classification/
 ├── requirements.txt             # Required Python package dependencies
 ├── README.md                    # Project documentation & assignment report
 ├── test_data.csv                # Exported 20% test dataset partition (with true target column)
-├── model_evaluation_metrics.png # Generated performance metric visualization plot
+├── ML_Assigment.ipynb           # Jupyter Notebook containing full source code
 └── model/                       # Notebook & serialized trained model binaries
-    ├── ML_Assignment.ipynb # Jupyter Notebook containing full source code
+    ├── Model Files              
 ```
 
 ## 4. Execution Instructions
